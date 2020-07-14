@@ -1,4 +1,4 @@
-<img src="https://github.com/Leecason/Leecason/raw/master/pikachu.gif" width="300">
+<img align="right" src="https://github.com/Leecason/Leecason/raw/master/pikachu.gif" width="300">
 
 **𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸:**
 
