@@ -1,6 +1,16 @@
+## Hi, I'm Leecason! 👋
+
 <img align="right" src="https://github.com/Leecason/Leecason/raw/master/pikachu.gif" width="300">
 
-**𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸:**
+- 👨‍💻 **Working:** Web Development, a Vue.js nerd.
+- 🌱 **Learning:** Full-Stack | Open-Source 🔥
+- 💬 **Ask me about:** Anything!
+- 😄 **Pronouns:** He/Him/His
+- ⚡ **Fun fact:** Cantopop 🎧, Gunpla 🤖️, Lego 🧩
+
+> El Psy Kongroo
+
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
