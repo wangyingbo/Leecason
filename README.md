@@ -25,4 +25,4 @@
 
 ![Leecason's github stats](https://github-readme-stats.vercel.app/api?username=Leecason&show_icons=true)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Leecason.Leecason)
+[![HitCount](http://hits.dwyl.com/Leecason/Leecason.svg)](http://hits.dwyl.com/Leecason/Leecason)
