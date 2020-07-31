@@ -23,4 +23,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 
-![Leecason's github stats](https://github-readme-stats.vercel.app/api?username=Leecason&show_icons=true&title_color=19CAAD&icon_color=19CAAD)
+<a href="https://github-readme-stats.vercel.app/api?username=Leecason&show_icons=true&title_color=19CAAD&icon_color=19CAAD">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Leecason&show_icons=true&title_color=19CAAD&icon_color=19CAAD" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecason&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecason&layout=compact" />
+</a>
