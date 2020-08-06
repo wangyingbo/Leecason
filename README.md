@@ -27,4 +27,6 @@
 
 ![Leecason's github stats](https://github-readme-stats.vercel.app/api?username=Leecason&show_icons=true&title_color=19CAAD&icon_color=19CAAD)
 
+<img align="right" src="https://github.com/Leecason/Leecason/raw/master/maruko.gif" width="180">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leecason&layout=compact)
